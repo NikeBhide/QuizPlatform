@@ -58,7 +58,7 @@ int main() {
                 }
             }
             else if (roleChoice == 3) {
-                cout << "Exiting system. Goodbye!" << endl;
+                cout << "Exiting system. Marks do pls hum 5 baje tak uthke kaam karre!" << endl;
                 running = false;
             }
             else {
